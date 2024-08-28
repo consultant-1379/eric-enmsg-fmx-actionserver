@@ -1,0 +1,10 @@
+- mountPath: /gp
+  name: gp
+- mountPath: /ericsson/enm/dumps
+  name: dumps
+- mountPath: /ericsson/tor/data/fmx
+  name: fmx
+- mountPath: /ericsson/tor/data
+  name: data
+- mountPath: /ericsson/log/amos
+  name: amos
